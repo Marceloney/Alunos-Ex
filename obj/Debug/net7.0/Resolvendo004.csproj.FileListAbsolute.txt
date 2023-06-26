@@ -1,0 +1,15 @@
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.csproj.AssemblyReference.cache
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.AssemblyInfoInputs.cache
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.AssemblyInfo.cs
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.csproj.CoreCompileInputs.cache
+C:\visualStudio\Resolvendo004\Resolvendo004\bin\Debug\net7.0\Resolvendo004.exe
+C:\visualStudio\Resolvendo004\Resolvendo004\bin\Debug\net7.0\Resolvendo004.deps.json
+C:\visualStudio\Resolvendo004\Resolvendo004\bin\Debug\net7.0\Resolvendo004.runtimeconfig.json
+C:\visualStudio\Resolvendo004\Resolvendo004\bin\Debug\net7.0\Resolvendo004.dll
+C:\visualStudio\Resolvendo004\Resolvendo004\bin\Debug\net7.0\Resolvendo004.pdb
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.dll
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\refint\Resolvendo004.dll
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.pdb
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\Resolvendo004.genruntimeconfig.cache
+C:\visualStudio\Resolvendo004\Resolvendo004\obj\Debug\net7.0\ref\Resolvendo004.dll
